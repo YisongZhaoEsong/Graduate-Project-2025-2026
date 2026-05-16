@@ -236,7 +236,6 @@ public float maxBallSpeed = 30f; changed to public float maxBallSpeed = 20f;)
 ##  Critical reflection: 
 
 ##  File: 
-· Excel for LED Pattern Settings Plugin: https://github.com/YisongZhaoEsong/Hidden-Bites/blob/main/LED_Utility.xlsm
 · Arduino File: https://git.arts.ac.uk/y-ni0320251/TeamWork-CCI/blob/main/CONTROLLLLLLLLLLnocite/CONTROLLLLLLLLLLnocite.ino \
 · SerialController: https://git.arts.ac.uk/y-ni0320251/TeamWork-CCI/blob/main/Assets/Scripts/SerialController.cs \
 · 3D printing File: https://git.arts.ac.uk/y-ni0320251/TeamWork-CCI/blob/main/led.3mf \
