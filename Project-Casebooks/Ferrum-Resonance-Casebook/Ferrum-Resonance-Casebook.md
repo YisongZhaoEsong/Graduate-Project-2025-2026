@@ -6,9 +6,13 @@ This project is inspired by my hometown, Liaoning Province, a region once known 
 
 <img width="6000" height="4000" alt="fc4585746967dbdb4dba6e1a0a2d01bf" src="https://github.com/user-attachments/assets/13358361-10de-418e-9f56-1aaa66570d67" />
 
+<img width="1901" height="2535" alt="071d8aa5d98989188b92a536135b5b09" src="https://github.com/user-attachments/assets/7f269663-3548-4657-b7e1-d7a51d366079" />
+
 
 In response to this issue, the project designs an interactive system embedded within an immersive game environment. By visually reconstructing iconic industrial elements of Liaoning — including blast furnaces, steel structures, and mechanical forms — the project creates an interactive virtual industrial installation situated within a game-based immersive experience. Rather than remaining passive observers, users actively enter and engage with the industrial environment through interaction and participation.
 
 At the interaction level, the project combines touch-based interaction with damping-style haptic feedback, allowing users to experience sensations reminiscent of steel collision, mechanical movement, and industrial forging processes. Through embodied participation, users are able to more directly perceive the qualities of “strength,” “weight,” and “resilience” embedded within Liaoning’s industrial culture.
 
 Through this immersive experience, the project aims to reconnect users with the industrial history of Liaoning as the “Eastern Ruhr.” By engaging users through metaphorical and embodied interaction, the experience encourages emotional resonance with the history and spirit of industrial culture. Ultimately, the project seeks to support cultural understanding, foster emotional connection and reflection, and challenge existing implicit cultural biases associated with the region.
+
+
