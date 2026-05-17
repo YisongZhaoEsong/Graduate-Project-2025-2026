@@ -6,7 +6,8 @@ This project is inspired by my hometown, Liaoning Province, a region once known 
 
 <img width="6000" height="4000" alt="fc4585746967dbdb4dba6e1a0a2d01bf" src="https://github.com/user-attachments/assets/13358361-10de-418e-9f56-1aaa66570d67" />
 
-<img width="1901" height="2535" alt="071d8aa5d98989188b92a536135b5b09" src="https://github.com/user-attachments/assets/7f269663-3548-4657-b7e1-d7a51d366079" />
+<img width="1043" height="670" alt="52a06c2dcd82fe41f9a5ff427abdb1ed" src="https://github.com/user-attachments/assets/2bdb733d-e3ce-4717-9ffd-65bf74645ab5" />
+
 
 
 In response to this issue, the project designs an interactive system embedded within an immersive game environment. By visually reconstructing iconic industrial elements of Liaoning — including blast furnaces, steel structures, and mechanical forms — the project creates an interactive virtual industrial installation situated within a game-based immersive experience. Rather than remaining passive observers, users actively enter and engage with the industrial environment through interaction and participation.
