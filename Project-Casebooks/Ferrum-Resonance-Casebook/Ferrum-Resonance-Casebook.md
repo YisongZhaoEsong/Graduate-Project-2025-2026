@@ -4,6 +4,7 @@
 
 <img width="6000" height="4000" alt="fc4585746967dbdb4dba6e1a0a2d01bf" src="https://github.com/user-attachments/assets/13358361-10de-418e-9f56-1aaa66570d67" />
 
+***Ferrum Resonance（2025）***
 
 
 This project is inspired by my hometown, Liaoning Province, a region once known as the “Eastern Ruhr” due to its significant industrial history. In the past, Liaoning was one of China’s most important heavy industrial centres, with a highly developed economy and strong industrial infrastructure. However, with industrial transformation and social change over time, the region has gradually become associated with labels such as “declining,” “outdated,” or “unsuitable for living.” As a result, many people overlook its former industrial achievements and lack a genuine understanding of its cultural depth. These perceptions are often shaped more by mediated narratives and stereotypes than by direct experience.
