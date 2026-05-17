@@ -16,14 +16,6 @@ In this project, we place the classic game Pong within a narrative framework tit
 
 <img width="3224" height="1280" alt="00fbfb114444c5ae977402e178cdf339" src="https://github.com/user-attachments/assets/28370c94-50a2-4565-92c4-842375be9706" />
 
-
-
-
-
-
-
-
-
 Through this game, we aim to make players aware that systems and rules which appear stable and fair are actually designed and maintained orders. The formulation and alteration of rules are often closely tied to the interests and will of those in power and decision-makers.
 
 The story goes like this...
@@ -55,7 +47,6 @@ only maintained by power.
 Through this mechanism, we are not merely increasing the game's difficulty, but simulating a process where “rules are interpreted and altered.” Directions can be redefined, physical laws can be fine-tuned, and players must continue competing under the current rules.\
 This allows players to realize: rules are not necessarily fair; they often shift according to the interests of those in positions of power and authority.
 
-
 ### Storyboard
 
 **To help players better understand the game’s interaction and narrative process, we created a storyboard.**
@@ -64,18 +55,15 @@ This allows players to realize: rules are not necessarily fair; they often shift
 
 After clicking “Start”, the game’s narrative is presented to the player.
 
-<img width="568" height="320" alt="1e47e609-531b-4dd5-8989-21874fa64cf7" src="https://github.com/user-attachments/assets/64c27a9d-d319-4150-9049-9ffee07278ba" />
+<img width="568" height="320" alt="1e47e609-531b-4dd5-8989-21874fa64cf7" src="https://github.com/user-attachments/assets/1e096054-abc1-4a9d-b173-b3197336fc92" />
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/19ca62b3-c52a-4e9d-8dcc-a3f26f3fb468" />
-
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/627d71cd-2cdf-4788-a2d5-ca8ce83d7110" />
 
 **Step 2:**
 
 Then, The King will issue a command, and the rules of the game will change based on the original system.
 
-<img width="568" height="320" alt="a6c81453-b56c-44e2-b684-f918d954691c" src="https://github.com/user-attachments/assets/13d526d6-8728-47e8-8f88-2f4bb9d8ac9a" />
-
-
+<img width="568" height="320" alt="a6c81453-b56c-44e2-b684-f918d954691c" src="https://github.com/user-attachments/assets/de42cdd0-5fc1-4411-859b-118d4f3e674d" />
 
 The King announces:
 “Now I order the addition of obstacles that block the ball’s trajectory.”
@@ -84,12 +72,14 @@ This means that the original control rule has changed.
 Before, when the player moved their hand up, the paddle moved up; when the player moved down, the paddle moved down.
 **Now the system reverses the control: when the player moves their hand down, the paddle moves up.**
 
-<img width="1194" height="512" alt="image" src="https://github.com/user-attachments/assets/96396f5e-f10f-4abf-ae0b-3cd329fec95d" />
+<img width="1194" height="512" alt="image" src="https://github.com/user-attachments/assets/6619b89f-8c97-4e9e-b94d-3e378532e0bc" />
+
 
 
 The game continues based on both the king’s new rules and the original rules - when the player moves their hand down, the paddle moves up... hand moves up, paddle moves down
 
-<img width="426" height="240" alt="5621acd5-8613-47f2-93f9-fc9737d6e31e" src="https://github.com/user-attachments/assets/d80cc679-3f4d-4fa6-94a2-6f714760a39b" />
+<img width="426" height="240" alt="5621acd5-8613-47f2-93f9-fc9737d6e31e" src="https://github.com/user-attachments/assets/8ad7b25f-4a38-48af-9545-016baa95e9fe" />
+
 
 
 
@@ -98,22 +88,20 @@ The game continues based on both the king’s new rules and the original rules -
 
 Then, the king said:
 
-<img width="2154" height="924" alt="image" src="https://github.com/user-attachments/assets/9399b649-e5c5-4995-92ae-bf829baf9621" />
+<img width="2154" height="924" alt="image" src="https://github.com/user-attachments/assets/469ba909-8027-4776-9d13-0dbfb87c5142" />
+
 
 
 So, There is an obstacle in the middle.
 
-
-<img width="420" height="240" alt="5月15日(1)" src="https://github.com/user-attachments/assets/d119e6ec-9f40-4b4c-a400-c356826cad6d" />
-
-
-
+<img width="420" height="240" alt="5月15日(2)" src="https://github.com/user-attachments/assets/0b29b8bb-4c33-4ca1-9f56-fe68578b5111" />
 
 **Step 4:**
 
 The other two king’s commands will also appear as the game progresses.
 
-<img width="2148" height="924" alt="image" src="https://github.com/user-attachments/assets/da12cbf6-cacc-4552-a67f-3f4683f683b9" />
+<img width="2148" height="924" alt="image" src="https://github.com/user-attachments/assets/8fda9508-ffd1-4a7e-94f3-359ca6eb7b3b" />
+
 
 <img width="2154" height="924" alt="image" src="https://github.com/user-attachments/assets/1d614dfe-d318-46c5-b529-93898e218bd4" />
 
