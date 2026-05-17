@@ -20,6 +20,9 @@ https://chatgpt.com/share/6930396b-ff10-8012-9a58-3233675e6363
 
 https://chatgpt.com/share/69303957-11bc-8012-b84f-27390c9017b8
 
+<img width="1916" height="1280" alt="image" src="https://github.com/user-attachments/assets/06bd521b-5753-4695-9134-b6416aea3e08" />
+
+
 
 ### 💥 Project Description
 💥 **Concept**
