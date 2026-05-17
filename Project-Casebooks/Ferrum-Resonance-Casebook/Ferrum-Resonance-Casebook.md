@@ -29,7 +29,8 @@ First, representative industrial elements of Liaoning — including blast furnac
 
 Then, TouchOSC was used as a mobile controller, communicating with Unity via OSC over UDP (port 9005) to control mechanical animations, lighting changes, and overall rotation, while Editor tools supported data management and the full interaction workflow.
 
-<img width="1108" height="831" alt="image" src="https://github.com/user-attachments/assets/c4e2598c-bfda-45a8-8f00-77e25885ca9e" />
+<img width="5712" height="4284" alt="8762768e785827e63ae13ebac17c9534" src="https://github.com/user-attachments/assets/6a374546-2269-4234-9078-bc3666fb14f4" />
+
 
 <img width="4179" height="2350" alt="0f0401ded368ae30651631f0826b01e7" src="https://github.com/user-attachments/assets/5848e6a8-003b-45d0-99a7-9b631d7e1b74" />
 
