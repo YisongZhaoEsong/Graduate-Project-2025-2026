@@ -32,8 +32,7 @@ Therefore, this project is created from that feeling. I want the user to experie
 
 When the user shakes the pendulum, the tilt sensor activates the peristaltic pump and the liquid begins to flow, symbolising the arrival of emotion or time itself. Pressing the pressure sensor makes the liquid speed up and the sound grow stronger, showing that the more we try to hold on to time, the more anxious we become. When there is no interaction and the pendulum becomes still, the liquid stops, creating a calm state where time flows naturally. By pressing the button, the liquid flows out of the pendulum, making the whole experience cyclical.
 
-### 💥 Demo Video
-https://git.arts.ac.uk/user-attachments/assets/addd3126-1c64-4a56-9bec-0436f94c9036
+### 💥 Demo Video https://youtu.be/NJDFdZ1kznE
 
 Video. 1 *When Time leaks* (2025)
 
