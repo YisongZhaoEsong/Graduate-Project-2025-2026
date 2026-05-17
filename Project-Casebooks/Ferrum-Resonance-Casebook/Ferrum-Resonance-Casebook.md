@@ -39,6 +39,19 @@ Then, TouchOSC was used as a mobile controller, communicating with Unity via OSC
 
 ***Interaction Development***
 
+<img width="1106" height="605" alt="image" src="https://github.com/user-attachments/assets/a079ed9d-142f-4f85-ba92-427a59285d1d" />
+
+<img width="1106" height="605" alt="image" src="https://github.com/user-attachments/assets/6016841a-65d6-49ff-9c1b-caeb1c05b740" />
+
+<img width="1106" height="605" alt="image" src="https://github.com/user-attachments/assets/9aed8e53-07fe-4c6b-bd9d-5c068c1b52f5" />
+
+<img width="1106" height="605" alt="image" src="https://github.com/user-attachments/assets/377bac13-3068-4178-8477-3a6bdf2824ab" />
+
+***Part of Programming***
+
+
+
+
 
 
 
