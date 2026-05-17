@@ -42,14 +42,11 @@ Video. 1 *When Time leaks* (2025)
 This is the hardware connection diagram, showing both the digital and the physical one.
 
 
-![image](https://git.arts.ac.uk/user-attachments/assets/df390b79-0396-4e09-be7c-f192545827d7)
-
+<img width="1437" height="870" alt="image" src="https://github.com/user-attachments/assets/ac0da6a4-a89a-4add-82eb-1d5767bb0ccc" />
 
 Fig. 1 *Digital Circuit Diagram* (2025)
 
-
-![IMG_5016](https://git.arts.ac.uk/user-attachments/assets/0f8ed1d5-6ffb-4eae-a091-45c8b6326d9f)
-
+<img width="2442" height="1620" alt="image" src="https://github.com/user-attachments/assets/ac8c2198-85fa-4878-97d2-ce769a3e81b0" />
 
 Fig. 2 *Physical Circuit* (2025)
 
@@ -58,22 +55,19 @@ Fig. 2 *Physical Circuit* (2025)
 
 The following images show the final interactive installation in its static display.
 
-![a17b2ff896ceb14b8ab4f648f77d8232](https://git.arts.ac.uk/user-attachments/assets/4460c7a8-86d7-45a1-a683-f498302ea1ee)
+<img width="1916" height="1280" alt="image" src="https://github.com/user-attachments/assets/adeb1a42-0cec-45a3-abb7-f37a04664f59" />
 
-![c68069f66d3334dcf8c4f0e805bcced6](https://git.arts.ac.uk/user-attachments/assets/1b2673ee-c5a3-49cc-807a-167aec044a93)
+<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/98253445-7c69-455d-85c6-dfe318c24242" />
 
-![9adf588ecef3b92017677117a744c094](https://git.arts.ac.uk/user-attachments/assets/338e7895-e173-4b77-a605-a3bb4c186ebd)
+<img width="1888" height="1280" alt="image" src="https://github.com/user-attachments/assets/e58a63ef-31e8-407d-831c-14a9d6c1d83b" />
 
-![d1bfa28662cd13578ad3bc38c1ef0204](https://git.arts.ac.uk/user-attachments/assets/a1c88569-9d01-4652-b57d-d9c25e9020f5)
+<img width="963" height="1476" alt="image" src="https://github.com/user-attachments/assets/97f67505-9109-41ba-9f43-74d0ad7f684b" />
 
-![IMG_5064](https://git.arts.ac.uk/user-attachments/assets/4bb35b9d-f5d3-4d6d-b5ae-e398cacd47c1)
+<img width="968" height="1505" alt="image" src="https://github.com/user-attachments/assets/04e223bb-9849-4202-ba37-6715b080242f" />
 
-![IMG_5066](https://git.arts.ac.uk/user-attachments/assets/7b3be02a-f6fa-4143-830a-76a33d7fbef8)
+<img width="2106" height="1402" alt="image" src="https://github.com/user-attachments/assets/94b6948b-2506-42fb-bf50-6e3748d7dcc6" />
 
-![IMG_5108](https://git.arts.ac.uk/user-attachments/assets/818b740b-d916-497b-8ffb-d52ceb21292b)
-
-![IMG_5104](https://git.arts.ac.uk/user-attachments/assets/75df0c93-6585-4d35-8cc3-4930de176bbf)
-
+<img width="2115" height="1418" alt="image" src="https://github.com/user-attachments/assets/d3c38b0a-5260-42eb-bb54-71b092c3df44" />
 
 
 ### 💥 All Code Files
@@ -182,13 +176,12 @@ int btnPin = 8; // button
 
 💥 **Whole Final Coding**
 
-![image](https://git.arts.ac.uk/user-attachments/assets/11a271d1-5ebc-496e-87f5-04e9f89067ed)
+<img width="2754" height="1594" alt="image" src="https://github.com/user-attachments/assets/84f83344-aa6d-4ecc-9ebe-049e08778edb" />
 
+<img width="2706" height="1405" alt="image" src="https://github.com/user-attachments/assets/dd4ae53c-a0ab-4ac1-a95d-e4bff7b55021" />
 
-![image](https://git.arts.ac.uk/user-attachments/assets/2d577e75-79bd-48e9-b9e1-f86dc461d859)
+<img width="2672" height="1374" alt="image" src="https://github.com/user-attachments/assets/94ac6f6c-dda3-4dd9-80dc-12a02a24963f" />
 
-
-![image](https://git.arts.ac.uk/user-attachments/assets/96936f84-d664-4193-880d-c438788b0df8)
 
 Fig. 3,4,5 *Final Coding* (2025)
 
@@ -325,17 +318,20 @@ https://www.youtube.com/watch?v=P42ICrgAtS4
 
 My inspiration comes from my everyday life. I noticed that the more I try to hold on to a particular moment, the faster it seems to disappear, and the process often fills me with mixed emotions. A farewell （Fig. 6) or an important exam （Fig. 7) makes this feeling especially clear. As the moment slips away, a sense of urgency around time begins to grow quietly in the background, shaping both the mood and the experience.
 
-![8ad9581f3d55eb2d5c4c5e98371bafde](https://git.arts.ac.uk/user-attachments/assets/030ad867-e82c-404b-884e-001dcf9e0fd2)
+<img width="1082" height="602" alt="image" src="https://github.com/user-attachments/assets/d0d98020-a214-4986-87b6-e59d20fa7d40" />
+
 
 Fig. 6 *A farewell* (2025)
 
-![3d7d4673fed1c97d3d930d7bb03a8d86](https://git.arts.ac.uk/user-attachments/assets/809b0228-177c-4ba8-b360-2abfb18178da)
+<img width="1179" height="588" alt="image" src="https://github.com/user-attachments/assets/2774815d-6022-40e7-ac51-eada5ffb1887" />
+
 
 Fig. 7 *A exam* (2025)
 
 During the early inspiration stage, Olafur Eliasson’s work played an important role, especially Breathing Earth Sphere (Fig. 8). His frequent use of light, water and mist to express “the flow of time” and “emotional tension” made a strong impression on me. It reminded me that I also needed a material element to convey the idea of time. This is why I chose flowing liquid in my installation. When the liquid speeds up, it represents the pressure of both emotion and time increasing at the same moment.
 
-![image](https://git.arts.ac.uk/user-attachments/assets/5e1f07e5-04d4-47b9-a24c-ec9ae862826f)
+<img width="1805" height="1920" alt="image" src="https://github.com/user-attachments/assets/2edc8235-4bbb-43c6-979e-70cdbf692f04" />
+
 
 Fig.8 *Breathing Earth Sphere* (2024)
 
@@ -343,7 +339,8 @@ Therefore, I decided to use liquid as the main medium to express the flow and ur
 
 At the same time, the sound becomes louder as the pressure increases. The audio I used is a recording of storm and wind that I captured while hiking (Fig. 9). The noise from that moment created a strong emotional response for me, and that experience inspired me to include it in my installation. By using this sound, participants can feel a similar emotional shift through hearing, creating a more immersive and multisensory interactive experience.
 
-![47a24fa389989795f3d98461e8abff4d](https://git.arts.ac.uk/user-attachments/assets/a6ec9130-5edc-4da2-8747-8f28ad5ba9f1)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c1c5224-aa73-46be-ab06-2ff03bd7bc5e" />
+
 
 
 Fig.9 *During My Hiking to Record the Rainstorm and Wind Sound* (2025)
@@ -354,7 +351,7 @@ Fig.9 *During My Hiking to Record the Rainstorm and Wind Sound* (2025)
 
 After deciding how I wanted to express my concept, I began sketching the structure of the installation. I wanted it to feel abstract, but not to the point where the audience might struggle to understand the idea. If the form becomes too abstract or too artistic, the participant may not fully grasp the intention behind it. For this reason, I decided to design a new type of pendulum. I built a frame using metal rods and placed a pendulum inside. The pendulum is a hollow, transparent sphere, with a small opening at the top so the liquid can flow in. This allows the participant to sense the moment when the liquid begins to enter, creating the impression that time itself has started to move (Fig. 10).
 
-![image](https://git.arts.ac.uk/user-attachments/assets/9c36fd12-080b-452d-9e06-b9de2340ddf9)
+<img width="1342" height="867" alt="image" src="https://github.com/user-attachments/assets/4c2e169a-644d-4a6b-86fb-4bc437b6ef9f" />
 
 Fig. 10 *Sketch* (2025)
 
@@ -363,7 +360,10 @@ Fig. 10 *Sketch* (2025)
 After finalising the visual direction, I moved on to the wiring and coding stage. I began assembling the electronic components and testing the interaction step by step. The following video (video 2) documents part of this process, including the circuit setup and the behaviour of each sensor during testing.
 
 
-https://git.arts.ac.uk/user-attachments/assets/50aa7d64-0b1a-41e7-aa02-ec684d6b66d7
+
+
+https://github.com/user-attachments/assets/ade9b9e5-ab30-4fa9-b465-0a63e35bd4c4
+
 
 Video. 2 *The Tech Progress* (2025)
 
@@ -373,29 +373,18 @@ Video. 2 *The Tech Progress* (2025)
 After resolving the technical elements, I began building the physical installation and bringing the concept into its final form (video 3). 
 
 
-https://git.arts.ac.uk/user-attachments/assets/a48a4f3a-5fae-443f-b59e-c03fa94cfece
+
+https://github.com/user-attachments/assets/3e2f8524-f397-42c5-a225-11706ccdf983
 
 
-Video. 3 *Build. 1* (2025)
-
-
-Next, I constuct the tech and the visual installation together (video 4). 
-
-
-
-https://git.arts.ac.uk/user-attachments/assets/f0dd94f6-cd96-45b0-8bc9-63747d1d5aa2
-
-
-
-Video. 4 *Build. 2* (2025)
+Video. 3 *Build. 1* (2025）
 
 
 
 Final, I completed the final film and photo of my project on the first floor of the Camberwell campus. I then edited the footage.
 
-![c66305f9f6bebf7d6f392b4b3eaf2e5b](https://git.arts.ac.uk/user-attachments/assets/b23f91ab-f488-4048-9463-99206b395479)
+<img width="1675" height="1279" alt="image" src="https://github.com/user-attachments/assets/5ffff3ef-ed25-4922-ba35-e3384a22bd09" />
 
-![e89ee766259ee529bec5c6df00ee6e04](https://git.arts.ac.uk/user-attachments/assets/53858590-6967-4045-a4f8-1fedd90caa15)
 
 
 Fig. 11, 12 *During the photogrph and cutting* (2025)
@@ -430,11 +419,6 @@ Indrek (2019) *DfPlayer Mini Module - Play MP3 Files With an Arduino (Step-by-st
 O, Eliasson. (2024) *Breathing earth sphere.* Available at: https://olafureliasson.net/ (Accessed: 3 December 2025).
 
 
-**I am explaining the installation to the participant.**
-
-![54bc8cf90daad87a5746b02c4440aaef](https://git.arts.ac.uk/user-attachments/assets/5ffda889-3e6a-49ab-96ac-253bdfd66997)
-
-THANK YOU SOOOO MUCH!
 
 
 
