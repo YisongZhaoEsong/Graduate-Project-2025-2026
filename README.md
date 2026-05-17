@@ -14,6 +14,7 @@ It organizes my project repositories into two groups:
 | Symmetry Kingdom | Embodied & Gamified Interaction Design; Immersive Interface Design | [Symmetry-Kingdom-Casebook](Project-Casebooks/Symmetry-Kingdom-Casebook) | [Symmetry-Kingdom](Engineering-Files/Symmetry-Kingdom) |
 | Hidden Bites | Critical Game Interaction; UX/UI Design | [Hidden-Bites-Casebook](Project-Casebooks/Hidden-Bites-Casebook) | [Hidden-Bites](Engineering-Files/Hidden-Bites) |
 | When Time Leaks | Interactive Installation; Embodied Media Experience | [When-Time-Leaks](Project-Casebooks/When-Time-Leaks) | Not included |
+| Ferrum Resonance | TBD | [Ferrum-Resonance-Casebook](Project-Casebooks/Ferrum-Resonance-Casebook) | Not included |
 
 ## Folders
 
