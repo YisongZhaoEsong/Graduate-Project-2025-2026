@@ -1,4 +1,3 @@
-<img width="4000" height="6000" alt="8b762ce4018c5652db527dda1da4be8b" src="https://github.com/user-attachments/assets/8e5e986a-348e-48ee-82b2-baa10be9e909" />
 # Ferrum Resonance Casebook
 
 ***The final project casebook presentation and demonstration video are currently in production.***
