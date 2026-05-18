@@ -49,6 +49,24 @@ During the development process, I also experimented with Arduino-based interacti
 
 https://github.com/user-attachments/assets/9eaffea6-1803-4c42-8f58-269814e781ab
 
+## Final Display
+
+https://github.com/user-attachments/assets/3c29d2d7-ceae-4406-8105-58a215566b55
+
+https://github.com/user-attachments/assets/17bf0951-57c9-4eb6-83b9-ccbac113cc3d
+
+<img width="1920" height="1280" alt="032ab77ff301bdc413a5f5db5454086c" src="https://github.com/user-attachments/assets/81810104-b801-4bd7-9042-dd4d26bc5359" />
+
+<img width="859" height="590" alt="3d66c418086ebf49f17ed63a686d6122" src="https://github.com/user-attachments/assets/c77397d2-7256-4d01-a1f5-fe18bb415929" />
+
+<img width="1043" height="670" alt="6b48444f45c73b784d07570fb42082cd" src="https://github.com/user-attachments/assets/7070d6bc-8e65-40ad-968d-90539ae28b69" />
+
+
+
+
+
+
+
 
 
 
