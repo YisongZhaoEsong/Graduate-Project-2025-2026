@@ -64,6 +64,9 @@ https://github.com/user-attachments/assets/9eaffea6-1803-4c42-8f58-269814e781ab
 
 <img width="1920" height="1280" alt="6def699faf5cf0258427036e584ed447" src="https://github.com/user-attachments/assets/738ff92f-9ee2-42d1-ac7d-f8a1cc4dd2de" />
 
+<img width="4000" height="6000" alt="1ac029112178c75d0aafe6c6692bc439" src="https://github.com/user-attachments/assets/78184087-da16-443f-aad3-cbba414acbab" />
+
+
 https://github.com/user-attachments/assets/3c29d2d7-ceae-4406-8105-58a215566b55
 
 https://github.com/user-attachments/assets/17bf0951-57c9-4eb6-83b9-ccbac113cc3d
